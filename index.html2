@@ -1,0 +1,15 @@
+<html>  
+<head><title>GPV Reserve Simulation</title></head>  
+<body>  
+  <h1>GPV Reserve Simulation Project</h1>  
+  <p>This project demonstrates reserve calculation using the Gross Premium Valuation (GPV) method.</p>  
+  <h2>Files:</h2>  
+  <ul>  
+    <li><a href="script.py">Python Script</a></li>  
+    <li><a href="input_data.xlsx">Input Data (Excel)</a></li>  
+    <li><a href="results.xlsx">Results (Excel)</a></li>  
+  </ul>  
+  <h2>Graph:</h2>  
+  <img src="graph.png" alt="Projection Graph" width="600px">  
+</body>  
+</html>  
