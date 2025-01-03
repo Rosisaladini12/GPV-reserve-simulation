@@ -23,9 +23,9 @@ The objective of this project is to:
 ## **Methodology**
 The GPV method calculates reserves based on:  
 1. Present value of benefits and costs:  
-   \[
-   PV_{Benefits} = \sum_{t=1}^{n} \frac{Benefit_t}{(1+i)^t}
-   \]
+   [
+   PV_{Benefits} = sum {t=1}^{n} \frac{Benefit_t}{(1+i)^t}
+   ]
 2. Present value of premiums:  
    \[
    PV_{Premiums} = \sum_{t=1}^{n} \frac{Premium_t}{(1+i)^t}
