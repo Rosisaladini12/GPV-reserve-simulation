@@ -35,10 +35,6 @@ The GPV method calculates reserves based on:
    Reserve = PV_{Benefits} - PV_{Premiums}
    \]
 
-**Key Assumptions Used:**  
-- Interest rate: 9.5%  
-- Salary growth rate: 2.5% annually  
-- Inflation rate: 5.51%  
 
 ---
 
