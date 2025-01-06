@@ -1,28 +1,28 @@
 # GPV Reserve Calculation Simulation  
 
-This project involves calculating insurance reserves for the THT (Savings and Insurance) program at PT XYZ using the **Gross Premium Valuation (GPV)** method. GPV is a widely adopted actuarial approach that calculates the present value of future benefits and expenses minus the present value of future premiums.
+This project demonstrates the calculation of insurance reserves for the THT (Savings and Insurance) program at PT XYZ using the Gross Premium Valuation (GPV) method. GPV is a standard actuarial approach to determining the present value of future benefits and expenses minus the present value of future premiums.
 
 ---
 
 ## **Objective**
 The objective of this project is to:  
-1. Calculate the reserves required for insurance programs using the GPV method.  
-2. Automate the reserve calculation process through Python.
+1. Calculate reserves for insurance programs using the GPV method.
+2. Automate the reserve calculation process with Python to improve accuracy and efficiency.
 ---
 
 ## **Key Features**
 - **Valuation of Reserves:**  
-  Separate cash inflow valuations were performed for different benefits, including pension benefits, death benefits, and other cost such as variable and fixed cost. Otherwise cash inflow valuation was performed only from gross premium.
+  Detailed cash flow valuations were performed for various benefits, including pension benefits, death benefits, and costs (variable and fixed). The methodology also accounts for inflows from gross premiums.
   
 - **Automation:**  
-  Reserve calculations were automated using Python to minimize manual errors and enhance efficiency.  
+  Python-based automation was implemented to minimize manual errors and ensure efficient reserve calculations.  
 
 ---
 
 ## **Methodology**
 The GPV method calculates reserves based on:  
-1. Present value of benefits and costs (pension benefits, death benefits, other cost)
-2. Present value of premiums (gross premium)
+1. Present value of benefits and costs (pension benefits, death benefits, fixed/variable costs)
+2. Present value of premiums (gross premiums)
 3. Reserve is the difference:  
    Reserve = PV{Benefits} - PV{Premiums}
 
